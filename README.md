@@ -1,5 +1,5 @@
 # destroytheworld
-I want to build an app that effectually  destroys the world
+I want to build an app that effectively  destroys the world
 
 
 
